@@ -1,0 +1,14 @@
+.center {
+  margin: auto;
+  width: 80%;
+  border: 3px solid rgb(0, 195, 255);
+  padding: 10px;
+}
+.h1 {
+  font-family: "fantasy", "Impact", "Times New Roman";
+}
+.footer--pin {
+  position: relative;
+  left: 0;
+  bottom: 0;
+}

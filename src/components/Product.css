@@ -1,0 +1,57 @@
+.main-row {
+  display: flex;
+  align-items: center;
+}
+.class-bag {
+  margin-top: 70px;
+  background: #f6f8fa;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  margin: auto;
+  /* width: 100%; */
+  padding: 40px;
+}
+span.ant-input-search {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+/* .product-image {
+  width: 10%;
+} */
+
+.product-info {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.product-name {
+  font-size: 23px;
+}
+.product-brand {
+  font-size: 20px;
+}
+.product-price {
+  font-size: 20px;
+}
+.product-Size {
+  font-size: 20px;
+}
+
+.product-description {
+  font-size: 20px;
+}
+.product-description-para {
+  text-align: left;
+  font-weight: normal;
+}
+.add-to-bag-button {
+  margin: auto;
+}
+.content-container {
+  min-height: calc(100vh - 34px);
+}
+.footer--pin {
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
