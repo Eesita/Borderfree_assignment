@@ -1,3 +1,4 @@
-.env
-.codesandbox
+.env/
+.codesandbox/
+node_module/
     
